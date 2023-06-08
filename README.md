@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello there 👋, I'm Shubham Patel</h1>
-<h3 align="center">Webdeveloper based in india</h3>
+<h3 align="center">Webdeveloper based in Bharat :india:</h3>
 
 - 🌱 I’m currently learning **Terraform/AWS**
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Angular/UI**
 
-- ⚡ Fun fact **I'm love PC gamming...**
+- ⚡ Fun fact **I Love :heart_eyes: PC gamming :video_game: and :motorcycle: Bike Riding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
