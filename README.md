@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/shubham-patel-6035b0120" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/shubham-patel-6035b0120" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
 </p>
