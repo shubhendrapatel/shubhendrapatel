@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **UI technologies**
 
-- 💬 Ask me about **Angular/UI**
+- 💬 Ask me about **Angular/UI** or **Python**
 
 - ⚡ Fun fact **I Love :heart_eyes: PC gamming :video_game: and :motorcycle: Bike Riding**
 
